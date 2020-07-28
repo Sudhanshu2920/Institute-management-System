@@ -10,10 +10,10 @@ The Application was built using [Netbeans](https://netbeans.org/) for UI develop
 - **MySql**
 
 # Instruction To Run The Project
-1.Clone this repository to your local system
-2.Inside IMS folder there is a database file naming InstituteManagementSystem.sql run this file Using MySql
-3.Now Import this IMS project From Netbeans(Note-If it shows any error of any file missing then import it from the IMS folder Manually).
-4.Go to the src/ims folder and open javaconnect.java there change the password.Set that to your root password
+1. Clone this repository to your local system
+2. Inside IMS folder there is a database file naming InstituteManagementSystem.sql run this file Using MySql
+3. Now Import this IMS project From Netbeans(Note-If it shows any error of any file missing then import it from the IMS folder Manually).
+4. Go to the src/ims folder and open javaconnect.java there change the password.Set that to your root password
 
 
 
